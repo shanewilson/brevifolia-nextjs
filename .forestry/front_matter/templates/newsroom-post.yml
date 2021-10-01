@@ -10,3 +10,5 @@ fields:
     min: 
     max: 
   description: Body Content
+pages:
+- posts/filenameiswhat.md
