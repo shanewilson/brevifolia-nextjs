@@ -1,4 +1,12 @@
 ---
 label: Newsroom Post
 hide_body: false
-fields: []
+fields:
+- name: content
+  type: blocks
+  label: Content
+  template_types: []
+  config:
+    min: 
+    max: 
+  description: Body Content
