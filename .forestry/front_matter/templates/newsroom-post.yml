@@ -10,5 +10,11 @@ fields:
     min: 
     max: 
   description: Body Content
+- name: image
+  type: file
+  config:
+    maxSize: 64
+  label: image
+  description: header image
 pages:
 - posts/filenameiswhat.md
